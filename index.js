@@ -5,12 +5,11 @@ var dogHide = document.getElementById('hideDog')
 var z = document.getElementById("cowImage");
 var cowHide = document.getElementById('hideCow')
 x.style.display = "none";
-catHide.style.display = "none";
 y.style.display = "none";
 z.style.display = "none";
 function catFunctionReveal(){
     x.style.display = "block";  
-    catHide.style.visibility = "block";
+    catHide.style.display = "block";
 }
 function catFunctionHide(){
     x.style.display = "none";
