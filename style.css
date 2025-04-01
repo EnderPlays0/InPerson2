@@ -1,0 +1,69 @@
+.headingInfo{
+    text-align: center;
+}
+.cat .showCat{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 600px;
+    left: 250px;
+}
+.cat .hideCat{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 350px;
+    left: 250px;
+    background-color: skyblue;
+}
+.dog .showDog{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 600px;
+    left: 800px;
+}
+.dog .hideDog {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 350px;
+    left: 800px;
+    background-color: skyblue;
+}
+.cow .showCow{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 600px;
+    right: 250px;
+}
+.cow .hideCow {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 350px;
+    right: 250px;
+    background-color: skyblue;
+}
+.cat img{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+}
+.dog img {
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    height: 200px;
+    width: 200px;
+}
+.cow img {
+    position: absolute;
+    top: 400px;
+    right: 200px;
+    height: 200px;
+    width: 200px;
+}
