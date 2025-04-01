@@ -9,7 +9,7 @@ y.style.display = "none";
 z.style.display = "none";
 function catFunctionReveal(){
     x.style.display = "block";  
-    catHide.style.display = "block";
+    catHide.style.display = "none";
 }
 function catFunctionHide(){
     x.style.display = "none";
